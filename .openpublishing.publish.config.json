@@ -33,16 +33,16 @@
         ]
       },
       "ECMA2Yaml": {
-        "SourceXmlFolder": "dotnet/xml",
-        "OutputYamlFolder": "dotnet/api",
+        "SourceXmlFolder": "officedocs-dev-managed-sip/xml",
+        "OutputYamlFolder": "officedocs-dev-managed-sip/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "officedocs-dev-managed-sip"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "officedocs-dev-managed-sip/api/officedocs-dev-managed-sip/toc.yml"
       ],
       "DiffFolder": [
-        "dotnet/api"
+        "officedocs-dev-managed-sip/api"
       ]
     }
   ],
