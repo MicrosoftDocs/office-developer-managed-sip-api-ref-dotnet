@@ -53,8 +53,7 @@
       "ms.technology": "sdk",
       "ms.tgt_pltfrm": "dotnet",
       "apiPlatform": "dotnet"
-
-    },
+   },
     "fileMetadata": {
       "author": {
         "api/**.yml": "dotnet-bot"
