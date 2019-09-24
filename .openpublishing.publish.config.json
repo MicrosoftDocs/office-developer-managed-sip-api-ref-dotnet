@@ -39,7 +39,8 @@
         "SourceXmlFolder": "officedocs-dev-managed-sip/xml",
         "OutputYamlFolder": "officedocs-dev-managed-sip/api",
         "Flatten": true,
-        "id": "officedocs-dev-managed-sip"
+        "id": "officedocs-dev-managed-sip",
+        "SDPMode": "true"
       },
       "SplitTOC": [
         "officedocs-dev-managed-sip/api/officedocs-dev-managed-sip/toc.yml"
@@ -88,8 +89,5 @@
       "target_framework": "net45",
       "version": "latest"
     }
-  ],
-  "ECMA2Yaml": {
-    "SDPMode": "true"
-  }
+  ]
 }
